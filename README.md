@@ -6,17 +6,17 @@
 ▷ Lesson on how to import this project here: https://www.youtube.com/watch?v=2TkNZ-Vael4 <br />
 ▷ Uber Web Dashboard with payouts for drivers: https://github.com/SimCoderYoutube/uberClone_dashboard
 
-▷ Become a Patreon: https://www.patreon.com/simpleCoder<br />
-▷ Donate with PayPal: https://www.paypal.me/simcoder<br />
-▷ Twitter: https://twitter.com/S1mpleCoder<br />
-▷ GitHub : https://goo.gl/88FHk4<br />
+▷ Become a Patreon: <br />
+▷ Donate with PayPal: <br />
+▷ Twitter: <br />
+▷ GitHub : <br />
 
 ▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary.
 
 
 **Important Links**
 
-Project Download: https://goo.gl/imccvo<br />
+Project Download: <br />
 FIrebase: https://goo.gl/9Wahb1<br />
 geofire: https://goo.gl/SYXc2b<br />
 Glide: https://github.com/bumptech/glide<br />
