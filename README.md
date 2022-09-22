@@ -1,11 +1,11 @@
 # Ride_share_android_app
-
+<!--
 ▷ Create an android app like uber
 
 ▷ Full Video Tutorial Playlist here: https://www.youtube.com/playlist?list=PLxabZQCAe5fgXx8cn2iKOtt0VFJrf5bOd <br />
 ▷ Lesson on how to import this project here: https://www.youtube.com/watch?v=2TkNZ-Vael4 <br />
 ▷ Uber Web Dashboard with payouts for drivers: https://github.com/SimCoderYoutube/uberClone_dashboard
-
+-->
 ▷ Become a Patreon: <br />
 ▷ Donate with PayPal: <br />
 ▷ Twitter: <br />
