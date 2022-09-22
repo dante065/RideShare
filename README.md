@@ -1,4 +1,4 @@
-# Ride_share_android_app_clone
+# Ride_share_android_app
 
 ▷ Create an android app like uber
 
@@ -23,4 +23,4 @@ Glide: https://github.com/bumptech/glide<br />
 Place Autocomplete: https://developers.google.com/places/android-api/autocomplete<br />
 Google-Directions-Android: :https://github.com/jd-alexander/google-directions-android<br />
 
-P.S: If ou're going to download the full project please use your own firebase API, the one in the project will NOT be mantained and the app may not work.
+P.S: If you're going to download the full project please use your own firebase API, the one in the project will NOT be mantained and the app may not work.
