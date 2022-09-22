@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "712969249096",
+    "firebase_url": "https://uber-32147.firebaseio.com",
+    "project_id": "uber-32147",
+    "storage_bucket": "uber-32147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712969249096:android:415e3267cde57b70",
+        "android_client_info": {
+          "package_name": "com.tian.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712969249096-3u86204t7fft137p674jaksonpceh437.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tian.uber",
+            "certificate_hash": "7a4f6e61c29e75e0ec8ab6ab45a2626a77a741fa"
+          }
+        },
+        {
+          "client_id": "712969249096-r8gs8hgbjjvj52o6hg7cmpvggfrokdfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tian.uber",
+            "certificate_hash": "4357a7e6d9cbf86fe9f1eec86c3cbfa1f811293e"
+          }
+        },
+        {
+          "client_id": "712969249096-sctvjv37orf04g2cf4e4rq92ipf2ldkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxwUyvak0hROXB4-q6RRYbRcnB-Uhh-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712969249096-sctvjv37orf04g2cf4e4rq92ipf2ldkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
