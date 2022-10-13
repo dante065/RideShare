@@ -42,7 +42,7 @@ public class PayPalConfig {
 
 
 _____________________________________________________________________________
-<h3>
+
 ![custolerrequesttaxi](https://user-images.githubusercontent.com/11573010/195524532-b9f4f340-71cd-4fea-880d-cf0decff63be.PNG)
 ![customerselect](https://user-images.githubusercontent.com/11573010/195524538-dd705a8e-8615-4975-af06-03b471617cb3.PNG)
 ![driveraccept](https://user-images.githubusercontent.com/11573010/195524546-2411167f-c830-4a77-81c0-6c8071e5eb05.PNG)
@@ -54,4 +54,4 @@ _____________________________________________________________________________
 ![login](https://user-images.githubusercontent.com/11573010/195524566-9247a355-bfbb-40df-bf70-b113cf06927f.PNG)
 ![paypal](https://user-images.githubusercontent.com/11573010/195524568-c850a687-2274-49a4-afd5-af39ef2ee951.png)
 ![register](https://user-images.githubusercontent.com/11573010/195524570-5690e0a6-316d-43da-99f1-b021c16c1f6d.PNG)
-</h3>
+
